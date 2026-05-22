@@ -7,6 +7,8 @@ public class CheckingGitCommands {
 		
 	
 System.out.println("checeking ");
+
+System.out.println("Testing Git");
 	}
 
 }
