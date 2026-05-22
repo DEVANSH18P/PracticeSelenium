@@ -6,7 +6,7 @@ public class CheckingGitCommands {
 		// TODO Auto-generated method stub
 		
 	
-
+System.out.println("checeking ");
 	}
 
 }
